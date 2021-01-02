@@ -1,5 +1,5 @@
 # sample-vue-app
-
+This project was created with vue-cli. For more information : https://cli.vuejs.org/
 ## Project setup
 ```
 npm install
